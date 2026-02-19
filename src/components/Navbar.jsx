@@ -11,12 +11,12 @@ export default function Navbar() {
     { label: "About", to: "about", type: "section" },
     // { label: "Products", to: "products", type: "section" },
     // { label: "Services", to: "services", type: "section" },
-    { label: "Technical Info", to: "technical-info", type: "section" },
-    { label: "Installation", to: "installation-layout", type: "section" },
-    { label: "Global Portfolio", to: "installation", type: "section" },
+    // { label: "Technical Info", to: "technical-info", type: "section" },
+    // { label: "Installation", to: "installation-layout", type: "section" },
+    // { label: "Global Portfolio", to: "installation", type: "section" },
 
     // PAGE ROUTE
-    { label: "Application", to: "/application", type: "route" },
+    // { label: "Application", to: "/application", type: "route" },
   ];
 
   const handleNavClick = (item) => {

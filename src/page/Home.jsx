@@ -16,11 +16,11 @@ export default function Home() {
       <About />
       {/* <Products /> */}
       {/* <Services /> */}
-      <TechnicalInfo />
-      <InstallationLayout />
-      <GlobalPortfolio />
+      {/* <TechnicalInfo /> */}
+      {/* <InstallationLayout /> */}
+      {/* <GlobalPortfolio /> */}
       {/* <ProjectPage/> */}
-      <Buildings/>
+      {/* <Buildings/> */}
 
       <footer className="py-6 text-center bg-gray-100 mt-10">
         <p>© {new Date().getFullYear()} Veeraum. All Rights Reserved.</p>

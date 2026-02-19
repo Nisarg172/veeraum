@@ -4,10 +4,10 @@ import { FiChevronLeft, FiChevronRight } from "react-icons/fi";
 export default function Hero() {
   const images = [
     "home-img1.jpg",
-    "home-img2.jpeg",
-    "home-img3.jpeg",
-    "home-img4.jpeg",
-    "home-img5.jpeg",
+    // "home-img2.jpeg",
+    // "home-img3.jpeg",
+    // "home-img4.jpeg",
+    // "home-img5.jpeg",
   ];
 
   const [slide, setSlide] = useState(0);
