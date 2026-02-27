@@ -1,0 +1,77 @@
+[
+  {
+    "id": 1,
+    "title": "Architectural Facade & Engineering Solutions",
+    "description1": "We transform architectural concepts into reliable, aesthetically refined spaces through innovative facade systems and engineering excellence.",
+    "description2": "From modern office buildings to complex infrastructure projects, our solutions combine design precision with structural integrity.",
+    "image": "Architectural_Facade-img.jpg",
+    "gallery": [
+      "Buildings-img1.jpg",
+      "Buildings-img2.jpg",
+      "Buildings-img3.jpg"  
+      
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Drywall & Glass Partitions",
+    "description1": "Floor-to-ceiling glass systems with curved designs and geometric patterns for modern office spaces.",
+    "description2": "Clean, professional wall systems with precision installation and seamless finishes.",
+    "image": "Glass_Systems-img.jpeg",
+    "gallery": [
+      "gp-img1.jpg",
+      "gp-img2.jpg",
+      "gp-img3.jpg"
+    ]
+  },
+  {
+    "id": 3,
+    "title": "WPC Panel Applications",
+    "description1": "From residential feature walls to modern fencing systems, WPC panels offer sustainable.",
+    "description2": "Weather-resistant solutions that combine natural aesthetics with engineered performance.",
+    "image": "WPC_Panel-img.avif",
+    "gallery": [
+      "gp-img4.jpg",
+      "gp-img5.jpg"
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Renewable Solutions",
+    "description1": "Integrating sustainable energy systems into architectural design.",
+    "description2": "Solar panels, photovoltaic facades, and energy-efficient building solutions.",
+    "image": "Renewable_Solutions-img.jpeg",
+    "gallery": [
+      "Renewable_Solutions-img1.webp",
+      "Renewable_Solutions-img2.webp",
+      "Renewable_Solutions-img3.webp"
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Windows Doors",
+    "description1": "The All-Way Concealed Frame Option for HL Imperial Slim System redefines minimalist design.",
+    "description2": "Vista Slim offers precisionengineered frames with slim sightlines that blend indoor comfort with grand outdoor views.",
+    "image": "Windows_Doors-img.webp",
+    "gallery": [
+      "Windows_Doors-img1.jpg",
+      "Windows_Doors-img2.webp",
+      "Windows_Doors-img3.webp",
+      "Windows_Doors-img4.webp",
+      "Windows_Doors-img5.webp"
+    ]
+  } ,
+  {
+    "id": 6,
+    "title": "Louvers System",
+    "description1": "consists of angled horizontal or vertical slats (fixed or adjustable) designed to control airflow, enhance privacy, and block sunlight, rain, and debris in residential, commercial, and industrial buildings",
+    "description2": "Commonly made from aluminum, wood, or plastic, these systems improve energy efficiency, provide shade, and reduce noise, with applications ranging from facades and windows to automated roof systems.",
+    "image": "Louvers_System-img2.png",
+    "gallery": [
+      "Louvers_System-img1.webp",
+      "Louvers_System-img.jpg",
+      "Louvers_System-img3.jpg",
+      "Louvers_System-img4.png"
+    ]
+  }
+]
