@@ -70,30 +70,10 @@ export default function Hero() {
             extreme durability & modern aesthetic design.
           </p>
 
-          <div className="mt-8 md:mt-10 flex flex-col sm:flex-row gap-4">
-            <button
-              className={`group relative overflow-hidden ${brandGoldBg} text-black px-8 py-4 rounded-full font-black text-[10px] md:text-xs uppercase tracking-widest shadow-2xl w-full sm:w-auto text-center`}
-            >
-              <span className="absolute inset-0 bg-white translate-x-full translate-y-full transition-transform duration-300 ease-out group-hover:translate-x-0 group-hover:translate-y-0" />
-              <span className="relative z-10">Explore Projects</span>
-            </button>
-
-            <button className="group relative overflow-hidden border border-white/30 backdrop-blur-md text-white px-8 py-4 rounded-full font-black text-[10px] md:text-xs uppercase tracking-widest transition-colors duration-300 hover:text-black w-full sm:w-auto text-center">
-              <span className="absolute inset-0 bg-[#F6C553] translate-x-full translate-y-full transition-transform duration-300 ease-out group-hover:translate-x-0 group-hover:translate-y-0" />
-              <span className="relative z-10">Our Materials</span>
-            </button>
-          </div>
         </motion.div>
       </div>
 
-      <div className="absolute bottom-10 right-10 hidden md:block opacity-20 hover:opacity-100 transition-opacity">
-        <img
-          src="/logo.png"
-          alt="Veeraum"
-          className="h-20 w-auto brightness-0 invert"
-        />
-      </div>
-
+    
       {images.length > 1 && (
         <div className="absolute bottom-10 left-6 z-20 flex gap-4">
           <button

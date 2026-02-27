@@ -6,9 +6,6 @@
     "description2": "From modern office buildings to complex infrastructure projects, our solutions combine design precision with structural integrity.",
     "image": "Architectural_Facade-img.jpg",
     "gallery": [
-      "Buildings-img1.jpg",
-      "Buildings-img2.jpg",
-      "Buildings-img3.jpg"  
       
     ]
   },
@@ -19,7 +16,7 @@
     "description2": "Clean, professional wall systems with precision installation and seamless finishes.",
     "image": "Glass_Systems-img.jpeg",
     "gallery": [
-      "gp-img1.jpg",
+     
       "gp-img2.jpg",
       "gp-img3.jpg"
     ]
@@ -31,8 +28,8 @@
     "description2": "Weather-resistant solutions that combine natural aesthetics with engineered performance.",
     "image": "WPC_Panel-img.avif",
     "gallery": [
-      "gp-img4.jpg",
-      "gp-img5.jpg"
+      "gp-img4.jpg"
+      
     ]
   },
   {
@@ -72,6 +69,33 @@
       "Louvers_System-img.jpg",
       "Louvers_System-img3.jpg",
       "Louvers_System-img4.png"
+    ]
+  },
+
+   {
+    "id": 7,
+    "title": "ELKO EP Wired Device",
+    "description1": "ELKOEP wired devices are based on the iNELS BUS wired automation system, designed for smart home and building automation. These devices communicate through a dedicated BUS cable, which connects sensors, switches, and actuators to a central controller.",
+    "description2": "The wired BUS system ensures stable, fast, and reliable communication, without interference issues common in wireless systems. It allows centralized control of lighting, air conditioning, curtains, security systems, and other electrical devices.",
+    "image": "ELKO EP Wired Device.png",
+    "gallery": [
+      "elkoep_CU309MDALI.png",
+      "elkoep_RC3610MDALI.png"
+      
+    ]
+  },  
+   {
+    "id": 8,
+    "title": "ELKO EP Wireless",
+    "description1": "ELKOEP wireless devices use RF (Radio Frequency) communication as part of the iNELS wireless automation system. These devices communicate wirelessly with the central controller, eliminating the need for additional communication cables.",
+    "description2": "Wireless technology allows easy installation, especially in existing buildings where running new wires is difficult. The devices can control lighting, curtains, air conditioning, and other electrical systems remotely.",
+    "image": "imageELKO EP Wireless.png",
+    "gallery": [
+     "elkoep_RFKEY60B.png",
+     "elkoep_RFSA66M24V.png",
+     "elkoep_RFSW262B.png",
+     "elkoep_RFWD100MT.png"
+      
     ]
   }
 ]

@@ -230,10 +230,7 @@ function Product() {
                       </button>
                     </Link>
 
-                    <button className="px-8 py-4 border-2 border-slate-100 text-slate-900 rounded-full flex items-center justify-center font-black text-[10px] hover:bg-slate-50 transition-all uppercase tracking-[0.2em] active:scale-95">
-                      Case Study{" "}
-                      <ChevronRight size={16} className="ml-1 text-[#F6C553]" />
-                    </button>
+                   
                   </div>
                 </div>
               </motion.div>

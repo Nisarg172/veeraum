@@ -38,14 +38,7 @@ const ProductDetails = () => {
               {product.title}
             </h1>
           </div>
-          <div className="flex flex-col items-end">
-            <span className="text-[10px] text-slate-500 font-bold uppercase tracking-widest mb-2">
-              Ref. VR-0{product.id}
-            </span>
-            <button className="bg-[#F6C553] text-black px-6 py-2 text-[10px] font-black uppercase tracking-widest hover:bg-white transition-all flex items-center gap-2">
-              Enquiry <Box size={14} />
-            </button>
-          </div>
+          
         </div>
 
         <div className="grid grid-cols-1 md:grid-cols-12 gap-4">
@@ -84,11 +77,6 @@ const ProductDetails = () => {
 
         <div className="mt-16 flex flex-col md:flex-row justify-between items-center text-[9px] font-bold uppercase tracking-[0.4em] text-slate-600">
           <p>Veeraum Engineering Solutions © 2026</p>
-          <div className="flex gap-10 mt-4 md:mt-0">
-            <span className="text-[#F6C553]">Premium Grade</span>
-            <span>Precision Series</span>
-            <span>ISO-9001</span>
-          </div>
         </div>
       </main>
     </div>

@@ -34,7 +34,7 @@ export default function Home() {
         <div className="space-y-32">
         </div>
       </main>
-      <footer className="bg-[#0f172a] text-white pt-20 pb-10 mt-20 relative overflow-hidden">
+      <footer id="contact" className="bg-[#0f172a] text-white pt-20 pb-10 mt-20 relative overflow-hidden">
     
         <div className="absolute top-0 right-0 w-1/3 h-full bg-white/1 -skew-x-12 translate-x-1/2 pointer-events-none" />
 
