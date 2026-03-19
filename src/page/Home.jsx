@@ -43,7 +43,7 @@ export default function Home() {
             
             <div className="lg:col-span-5 space-y-6">
               <h2 className="text-3xl font-black italic tracking-tighter uppercase">
-                VEERAUM<span className="text-[#F6C553]">.</span>
+                VEERAUM<span className="text-[#F6C553]"></span>
               </h2>
               <p className="text-slate-400 text-sm leading-relaxed max-w-sm">
                 Redefining modern skylines through high-performance facade engineering. 
@@ -76,6 +76,10 @@ export default function Home() {
             {/* Contact Info (4 Cols) */}
             <div className="lg:col-span-4">
               <h4 className="text-[10px] font-black uppercase tracking-[0.3em] text-[#F6C553] mb-8">Connect with us</h4>
+              <p className="text-sm text-slate-400 group-hover:text-white transition-colors">
+                VEERAUM
+              </p>
+              
               <div className="space-y-6">
                 <div className="flex items-start gap-4 group">
                   <div className="mt-1 p-2 rounded-lg bg-slate-800 text-[#F6C553] group-hover:bg-[#F6C553] group-hover:text-black transition-colors">
