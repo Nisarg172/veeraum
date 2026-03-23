@@ -76,7 +76,7 @@ export default function Home() {
             {/* Contact Info (4 Cols) */}
             <div className="lg:col-span-4">
               <h4 className="text-[10px] font-black uppercase tracking-[0.3em] text-[#F6C553] mb-8">Connect with us</h4>
-              <p className="text-sm text-slate-400 group-hover:text-white transition-colors">
+              <p className="text-sm mt-[-30px]  mb-[15px] text-slate-400 group-hover:text-white transition-colors">
                 VEERAUM
               </p>
               
@@ -110,7 +110,7 @@ export default function Home() {
           {/* Bottom Bar */}
           <div className="pt-10 border-t border-slate-800/50 flex flex-col md:flex-row justify-between items-center gap-6">
             <p className="text-[10px] font-bold uppercase tracking-[0.2em] text-slate-500">
-              © {new Date().getFullYear()} Veeraum Industry. All Rights Reserved.
+              © {new Date().getFullYear()} Veeraum All Rights Reserved.
             </p>
             
             <div className="flex gap-8">
