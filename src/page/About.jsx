@@ -72,7 +72,7 @@ export default function About() {
                 </div>
 
                 <p className="text-slate-500 leading-relaxed text-xs md:text-base">
-                  With 15+ years of expertise in facade engineering, Sanjay leads Veeraum with a focus on high-performance solutions that blend durability with visual precision.
+                  With 21+ years of expertise in facade engineering, Sanjay leads Veeraum with a focus on high-performance solutions that blend durability with visual precision.
                 </p>
 
                 {/* Technical Mini-Grid - Stackable on small screens if needed */}
